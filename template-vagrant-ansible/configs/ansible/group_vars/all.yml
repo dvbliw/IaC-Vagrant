@@ -1,0 +1,6 @@
+wp_db_name: wordpress_db
+wp_login: root
+wp_user: wordpressuser
+wp_user_pass: 1337
+wp_wordpress_dir: '/var/www/wordpress'
+
