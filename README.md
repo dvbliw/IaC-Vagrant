@@ -4,7 +4,7 @@
 
 **Dependências:**
  > VirtualBox
- > 
+ > Ansible
  > Vagrant
      
 ## Skills used
